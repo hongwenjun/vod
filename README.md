@@ -9,3 +9,7 @@
 https://www.bilibili.com/video/BV1Vs411n7WC
 
 -----
+## 乐乐课堂 :初中数学八年级上册（合集）
+
+https://www.bilibili.com/video/BV1zx411V78G
+----
