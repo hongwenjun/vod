@@ -24,4 +24,7 @@ https://www.bilibili.com/video/BV1zx411V7sA
 ### 乐乐课堂：初中物理八年级下册（合集）
 https://www.bilibili.com/video/BV1zx411V7pa
 
+### 乐乐课堂：初中物理九年级（合集）
+https://www.bilibili.com/video/BV1zx411V7Wu
+
 ----
