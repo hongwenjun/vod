@@ -28,3 +28,10 @@ https://www.bilibili.com/video/BV1zx411V7pa
 https://www.bilibili.com/video/BV1zx411V7Wu
 
 ----
+
+
+## 下载视频合集方法 选集
+```
+youtube-dl --playlist-start 201   --playlist-end 300 \
+https://www.youtube.com/playlist?list=PLR1ACzwrLF_1cGgv_lYjkzG3Qca-eA67v
+```
